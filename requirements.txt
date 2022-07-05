@@ -1,0 +1,9 @@
+Flask==1.1.2
+werkzeug==1.0.1
+flask_script
+flask_restplus
+bson
+selenium-wire
+bs4
+MarkupSafe
+itsdangerous==2.0.1
